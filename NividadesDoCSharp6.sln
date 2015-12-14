@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NividadesDoCSharp6", "NividadesDoCSharp6\NividadesDoCSharp6.csproj", "{F8CBAC27-84BF-4F81-8597-8021E321E0FD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula01", "NividadesDoCSharp6\Aula01.csproj", "{F8CBAC27-84BF-4F81-8597-8021E321E0FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula02", "Aula02\Aula02.csproj", "{A51FC5DE-9826-4B7F-A065-32BD16F38363}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F8CBAC27-84BF-4F81-8597-8021E321E0FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8CBAC27-84BF-4F81-8597-8021E321E0FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8CBAC27-84BF-4F81-8597-8021E321E0FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A51FC5DE-9826-4B7F-A065-32BD16F38363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A51FC5DE-9826-4B7F-A065-32BD16F38363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A51FC5DE-9826-4B7F-A065-32BD16F38363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A51FC5DE-9826-4B7F-A065-32BD16F38363}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
