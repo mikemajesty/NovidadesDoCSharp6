@@ -40,7 +40,7 @@ namespace Aula14
             var pedido = new Pedido
             {
                 Cliente = "Mike"
-            }          
+            };       
             pedido.Pagar += (value) =>
             {
                 WriteLine("O valor é: " + value);
