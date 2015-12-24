@@ -7,8 +7,8 @@
     <ProjectGuid>{8CF04923-80A9-4F58-BF8C-237257F54B04}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Aula16</RootNamespace>
-    <AssemblyName>Aula16</AssemblyName>
+    <RootNamespace>Aula15</RootNamespace>
+    <AssemblyName>Aula15</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
